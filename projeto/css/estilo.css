@@ -1,0 +1,21 @@
+i{
+	font-size: 30px;
+	color: #fff;
+}
+
+.icones{
+	display: flex!important;
+
+    justify-content: space-evenly;
+    align-content: space-around;
+    align-items: center;
+}
+.fundo{
+	background-image: linear-gradient(to bottom, #046AC8, #021F3B);
+}
+.ativado{
+	background-color: #fff;
+	color: #046AC8 !important;
+	padding:15px;
+	border-radius: 10px; 
+}
